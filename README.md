@@ -4,7 +4,7 @@ This repository hosts the privacy policy for MiniMedApp, a mobile healthcare app
 
 ## 🔗 Live Privacy Policy
 
-View the privacy policy at: [https://chandan7710.github.io/minimedapp-privacy](https://chandan7710.github.io/minimedapp-privacy)
+View the privacy policy at: [https://github.com/Chandan7710/minimedapp-privacy/blob/main/index.html](https://github.com/Chandan7710/minimedapp-privacy/blob/main/index.html)
 
 ## 📱 About MiniMedApp
 
@@ -22,12 +22,6 @@ This privacy policy explains how MiniMedApp:
 - Protects healthcare data (HIPAA compliant)
 - Implements industry-standard security measures
 - Handles user rights and data requests
-
-## 📧 Contact
-
-For privacy-related questions or concerns:
-- Email: privacy@medtronic.com
-- Data Protection Officer: dpo@medtronic.com
 
 ## 📄 License
 
