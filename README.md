@@ -4,7 +4,7 @@ This repository hosts the privacy policy for MiniMedApp, a mobile healthcare app
 
 ## 🔗 Live Privacy Policy
 
-View the privacy policy at: [https://soundar5033.github.io/minimedapp-privacy](https://soundar5033.github.io/minimedapp-privacy)
+View the privacy policy at: [https://chandan7710.github.io/minimedapp-privacy](https://chandan7710.github.io/minimedapp-privacy)
 
 ## 📱 About MiniMedApp
 
@@ -31,4 +31,4 @@ For privacy-related questions or concerns:
 
 ## 📄 License
 
-© 2024 Medtronic. All rights reserved.
+© 2025 Medtronic. All rights reserved.
